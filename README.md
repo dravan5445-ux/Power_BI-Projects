@@ -1,2 +1,3 @@
-# Power_BI-Projects
-🚀 Free Power BI Practice Hub | A curated collection of Power BI dashboards, datasets, and analytics projects for aspiring and experienced data professionals. Download, explore, and practice with real-world business cases, DAX measures, data models, and visualizations. All resources are available free for learning and portfolio enhancement.
+<img width="2478" height="2268" alt="image" src="https://github.com/user-attachments/assets/3ee900ba-c30d-4648-8ee0-12609e3aac73" />
+
+
